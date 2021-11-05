@@ -1,17 +1,9 @@
 # Awesome Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
->  收集所有区块链(BlockChain)技术开发相关资料
-
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)*
-
-欢迎到Issues提交区块链相关项目，我们会第一时间处理。
-提交的项目格式如下：
-项目名称：XXXXX
-相关介绍: XXXXXX
-
 ## CONTENTS
 
-斯坦福区块链课程 [CS251](https://cs251.stanford.edu/syllabus.html) 
+- 斯坦福区块链课程 [CS251](https://cs251.stanford.edu/syllabus.html) 
+- 北大肖臻区块链公开课 [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=17144852262898437788&spm_id_from=333.337.0.0)
 
 - [INTRO 介绍](#intro-%E4%BB%8B%E7%BB%8D)
 - [TUTORIAL 教程](#tutorial-%E6%95%99%E7%A8%8B)
