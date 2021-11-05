@@ -11,6 +11,8 @@
 
 ## CONTENTS
 
+斯坦福区块链课程 [CS251](https://cs251.stanford.edu/syllabus.html) 
+
 - [INTRO 介绍](#intro-%E4%BB%8B%E7%BB%8D)
 - [TUTORIAL 教程](#tutorial-%E6%95%99%E7%A8%8B)
 - [PROJECT 项目](#project-%E9%A1%B9%E7%9B%AE)
